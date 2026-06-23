@@ -1,0 +1,23 @@
+# Game files — never commit copyrighted content
+*.iso
+*.gcm
+*.dol
+*.usd
+
+# Emulator / Slippi build dropped alongside the project during development
+slippi*/
+build/
+
+# memory snapshots and probe output from the dev tools
+*.bin
+*.snap
+*.dmp
+*.MODTEST
+padprobe*.txt
+
+# installer backups created when run in-place
+*.erc-backup
+
+# python
+__pycache__/
+*.pyc
