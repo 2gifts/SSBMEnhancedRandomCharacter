@@ -5,6 +5,11 @@
 ![Netplay](https://img.shields.io/badge/netplay-safe-1fc28e)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+*A per‑port **random character** mod for **Super Smash Bros. Melee** — limit random
+to your chosen characters (your mains, a practice subset), or take a hidden
+**“mystery” blind pick** revealed only at match load. Online / netplay‑safe
+**Gecko codes** for **Slippi** and **Dolphin**, plus **Wii** via **Nintendont**.*
+
 A Super Smash Bros. Melee code mod that gives **each controller port its own
 random‑character pool**, built live on the character select screen. Pick the
 characters *you* feel like playing, then either roll one instantly or take a
@@ -14,6 +19,11 @@ keeps their own pool.
 Works **offline** (vanilla VS) and **online on Slippi** — and online, *only you
 need it installed*. It also runs on real **Wii hardware** (Nintendont) and on
 **m‑ex builds** like the Akaneia Build (it detects which game is running).
+
+**Great for:** restricting random to your mains or a practice pool · a
+random‑secondary or random‑character challenge run · a blind / mystery pick that
+surprises you at the loading screen · a fairer custom random than rolling the
+whole roster.
 
 ## What it does
 
@@ -202,3 +212,10 @@ python src/build_codes.py
 
 MIT — see [LICENSE](LICENSE). Super Smash Bros. Melee is the property of Nintendo
 / HAL Laboratory; this repository contains only original code and documentation.
+
+---
+
+<sub>**Also known as / keywords:** Melee random character mod · SSBM random character
+select screen · Slippi random character · custom random / random filter · random
+character generator and picker · mystery / blind pick · per‑port random ·
+20XX‑style random · Melee Gecko code · Dolphin / Nintendont · Akaneia / m‑ex.</sub>
